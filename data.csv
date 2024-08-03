@@ -1,0 +1,1134 @@
+_id,year,county_id,county_name,racial_ethnic_group,median_income,income_gap_from_white,income_gap_from_white_percent
+1,2000,42017,Bucks,All,105537,1817,0.017
+2,2000,42017,Bucks,Asian alone,109504,-2150,-0.020
+3,2000,42017,Bucks,Black or African American alone,72559,34795,0.324
+4,2000,42017,Bucks,Latinx,75966,31388,0.292
+5,2000,42017,Bucks,Other,87139,20215,0.188
+6,2000,42017,Bucks,People of Color,84137,23217,0.216
+7,2000,42017,Bucks,"White alone, non-Latinx",107354,0,0.000
+8,2000,34005,Burlington,All,103560,2886,0.027
+9,2000,34005,Burlington,Asian alone,108605,-2159,-0.020
+10,2000,34005,Burlington,Black or African American alone,94299,12147,0.114
+11,2000,34005,Burlington,Latinx,90374,16072,0.151
+12,2000,34005,Burlington,Other,81028,25418,0.239
+13,2000,34005,Burlington,People of Color,94759,11687,0.110
+14,2000,34005,Burlington,"White alone, non-Latinx",106446,0,0.000
+15,2000,34007,Camden,All,84988,9142,0.097
+16,2000,34007,Camden,Asian alone,101855,-7725,-0.082
+17,2000,34007,Camden,Black or African American alone,61936,32194,0.342
+18,2000,34007,Camden,Latinx,52472,41658,0.443
+19,2000,34007,Camden,Other,65422,28708,0.305
+20,2000,34007,Camden,People of Color,63847,30283,0.322
+21,2000,34007,Camden,"White alone, non-Latinx",94130,0,0.000
+22,2000,42029,Chester,All,115375,4722,0.039
+23,2000,42029,Chester,Asian alone,133543,-13446,-0.112
+24,2000,42029,Chester,Black or African American alone,66557,53540,0.446
+25,2000,42029,Chester,Latinx,78928,41169,0.343
+26,2000,42029,Chester,Other,80782,39315,0.327
+27,2000,42029,Chester,People of Color,81828,38269,0.319
+28,2000,42029,Chester,"White alone, non-Latinx",120097,0,0.000
+29,2000,42045,Delaware,All,88513,5045,0.054
+30,2000,42045,Delaware,Asian alone,89626,3932,0.042
+31,2000,42045,Delaware,Black or African American alone,58359,35199,0.376
+32,2000,42045,Delaware,Latinx,68645,24913,0.266
+33,2000,42045,Delaware,Other,51881,41677,0.445
+34,2000,42045,Delaware,People of Color,63436,30122,0.322
+35,2000,42045,Delaware,"White alone, non-Latinx",93558,0,0.000
+36,2000,34015,Gloucester,All,95901,2433,0.025
+37,2000,34015,Gloucester,Asian alone,127370,-29036,-0.295
+38,2000,34015,Gloucester,Black or African American alone,72107,26227,0.267
+39,2000,34015,Gloucester,Latinx,79389,18945,0.193
+40,2000,34015,Gloucester,Other,79389,18945,0.193
+41,2000,34015,Gloucester,People of Color,79056,19278,0.196
+42,2000,34015,Gloucester,"White alone, non-Latinx",98334,0,0.000
+43,2000,34021,Mercer,All,100035,13601,0.120
+44,2000,34021,Mercer,Asian alone,147170,-33534,-0.295
+45,2000,34021,Mercer,Black or African American alone,65549,48087,0.423
+46,2000,34021,Mercer,Latinx,72494,41142,0.362
+47,2000,34021,Mercer,Other,83878,29758,0.262
+48,2000,34021,Mercer,People of Color,78921,34715,0.305
+49,2000,34021,Mercer,"White alone, non-Latinx",113636,0,0.000
+50,2000,42091,Montgomery,All,107484,2131,0.019
+51,2000,42091,Montgomery,Asian alone,107198,2417,0.022
+52,2000,42091,Montgomery,Black or African American alone,82925,26690,0.243
+53,2000,42091,Montgomery,Latinx,88086,21529,0.196
+54,2000,42091,Montgomery,Other,86681,22934,0.209
+55,2000,42091,Montgomery,People of Color,90480,19135,0.175
+56,2000,42091,Montgomery,"White alone, non-Latinx",109615,0,0.000
+57,2000,42101,Philadelphia,All,54328,11180,0.171
+58,2000,42101,Philadelphia,Asian alone,49112,16396,0.250
+59,2000,42101,Philadelphia,Black or African American alone,46325,19183,0.293
+60,2000,42101,Philadelphia,Latinx,36687,28821,0.440
+61,2000,42101,Philadelphia,Other,39351,26157,0.399
+62,2000,42101,Philadelphia,People of Color,45081,20427,0.312
+63,2000,42101,Philadelphia,"White alone, non-Latinx",65508,0,0.000
+64,2005,42017,Bucks,All,96946,3250,0.032
+65,2005,42017,Bucks,Asian alone,106960,-6764,-0.068
+66,2005,42017,Bucks,Black or African American alone,60912,39284,0.392
+67,2005,42017,Bucks,Latinx,67973,32223,0.322
+68,2005,42017,Bucks,Other,85775,14421,0.144
+69,2005,42017,Bucks,People of Color,77877,22319,0.223
+70,2005,42017,Bucks,"White alone, non-Latinx",100196,0,0.000
+71,2005,34005,Burlington,All,104021,3981,0.037
+72,2005,34005,Burlington,Asian alone,122355,-14353,-0.133
+73,2005,34005,Burlington,Black or African American alone,82041,25961,0.240
+74,2005,34005,Burlington,Latinx,69905,38097,0.353
+75,2005,34005,Burlington,Other,82344,25658,0.238
+76,2005,34005,Burlington,People of Color,85834,22168,0.205
+77,2005,34005,Burlington,"White alone, non-Latinx",108002,0,0.000
+78,2005,34007,Camden,All,80621,11568,0.125
+79,2005,34007,Camden,Asian alone,115019,-22830,-0.248
+80,2005,34007,Camden,Black or African American alone,52078,40111,0.435
+81,2005,34007,Camden,Latinx,47876,44313,0.481
+82,2005,34007,Camden,Other,48330,43859,0.476
+83,2005,34007,Camden,People of Color,56572,35617,0.386
+84,2005,34007,Camden,"White alone, non-Latinx",92189,0,0.000
+85,2005,42029,Chester,All,109517,3524,0.031
+86,2005,42029,Chester,Asian alone,148916,-35875,-0.317
+87,2005,42029,Chester,Black or African American alone,66733,46308,0.410
+88,2005,42029,Chester,Latinx,62335,50706,0.449
+89,2005,42029,Chester,Other,102675,10366,0.092
+90,2005,42029,Chester,People of Color,88324,24717,0.219
+91,2005,42029,Chester,"White alone, non-Latinx",113041,0,0.000
+92,2005,42045,Delaware,All,83814,11176,0.118
+93,2005,42045,Delaware,Asian alone,69887,25103,0.264
+94,2005,42045,Delaware,Black or African American alone,49083,45907,0.483
+95,2005,42045,Delaware,Latinx,76801,18189,0.191
+96,2005,42045,Delaware,Other,66112,28878,0.304
+97,2005,42045,Delaware,People of Color,55108,39882,0.420
+98,2005,42045,Delaware,"White alone, non-Latinx",94990,0,0.000
+99,2005,34015,Gloucester,All,97154,3804,0.038
+100,2005,34015,Gloucester,Asian alone,115358,-14400,-0.143
+101,2005,34015,Gloucester,Black or African American alone,71440,29518,0.292
+102,2005,34015,Gloucester,Latinx,88873,12085,0.120
+103,2005,34015,Gloucester,Other,122815,-21857,-0.216
+104,2005,34015,Gloucester,People of Color,82705,18253,0.181
+105,2005,34015,Gloucester,"White alone, non-Latinx",100958,0,0.000
+106,2005,34021,Mercer,All,97414,15575,0.138
+107,2005,34021,Mercer,Asian alone,141523,-28534,-0.253
+108,2005,34021,Mercer,Black or African American alone,63506,49483,0.438
+109,2005,34021,Mercer,Latinx,76299,36690,0.325
+110,2005,34021,Mercer,Other,72994,39995,0.354
+111,2005,34021,Mercer,People of Color,81310,31679,0.280
+112,2005,34021,Mercer,"White alone, non-Latinx",112989,0,0.000
+113,2005,42091,Montgomery,All,102768,4274,0.040
+114,2005,42091,Montgomery,Asian alone,110271,-3229,-0.030
+115,2005,42091,Montgomery,Black or African American alone,73854,33188,0.310
+116,2005,42091,Montgomery,Latinx,68790,38252,0.357
+117,2005,42091,Montgomery,Other,56513,50529,0.472
+118,2005,42091,Montgomery,People of Color,81957,25085,0.234
+119,2005,42091,Montgomery,"White alone, non-Latinx",107042,0,0.000
+120,2005,42101,Philadelphia,All,49076,16660,0.253
+121,2005,42101,Philadelphia,Asian alone,56997,8739,0.133
+122,2005,42101,Philadelphia,Black or African American alone,38205,27531,0.419
+123,2005,42101,Philadelphia,Latinx,32332,33404,0.508
+124,2005,42101,Philadelphia,Other,37518,28218,0.429
+125,2005,42101,Philadelphia,People of Color,38719,27017,0.411
+126,2005,42101,Philadelphia,"White alone, non-Latinx",65736,0,0.000
+127,2006,42017,Bucks,All,102740,3337,0.031
+128,2006,42017,Bucks,Asian alone,107217,-1140,-0.011
+129,2006,42017,Bucks,Black or African American alone,51970,54107,0.510
+130,2006,42017,Bucks,Latinx,62519,43558,0.411
+131,2006,42017,Bucks,Other,79003,27074,0.255
+132,2006,42017,Bucks,People of Color,72467,33610,0.317
+133,2006,42017,Bucks,"White alone, non-Latinx",106077,0,0.000
+134,2006,34005,Burlington,All,99360,5424,0.052
+135,2006,34005,Burlington,Asian alone,116218,-11434,-0.109
+136,2006,34005,Burlington,Black or African American alone,78187,26597,0.254
+137,2006,34005,Burlington,Latinx,61537,43247,0.413
+138,2006,34005,Burlington,Other,74746,30038,0.287
+139,2006,34005,Burlington,People of Color,80595,24189,0.231
+140,2006,34005,Burlington,"White alone, non-Latinx",104784,0,0.000
+141,2006,34007,Camden,All,83050,10076,0.108
+142,2006,34007,Camden,Asian alone,87732,5394,0.058
+143,2006,34007,Camden,Black or African American alone,63609,29517,0.317
+144,2006,34007,Camden,Latinx,54569,38557,0.414
+145,2006,34007,Camden,Other,56363,36763,0.395
+146,2006,34007,Camden,People of Color,62517,30609,0.329
+147,2006,34007,Camden,"White alone, non-Latinx",93126,0,0.000
+148,2006,42029,Chester,All,113194,3520,0.030
+149,2006,42029,Chester,Asian alone,141607,-24893,-0.213
+150,2006,42029,Chester,Black or African American alone,55015,61699,0.529
+151,2006,42029,Chester,Latinx,73356,43358,0.371
+152,2006,42029,Chester,Other,86423,30291,0.260
+153,2006,42029,Chester,People of Color,82259,34455,0.295
+154,2006,42029,Chester,"White alone, non-Latinx",116714,0,0.000
+155,2006,42045,Delaware,All,80266,7814,0.089
+156,2006,42045,Delaware,Asian alone,95508,-7428,-0.084
+157,2006,42045,Delaware,Black or African American alone,54996,33084,0.376
+158,2006,42045,Delaware,Latinx,74312,13768,0.156
+159,2006,42045,Delaware,Other,68892,19188,0.218
+160,2006,42045,Delaware,People of Color,63343,24737,0.281
+161,2006,42045,Delaware,"White alone, non-Latinx",88080,0,0.000
+162,2006,34015,Gloucester,All,97418,620,0.006
+163,2006,34015,Gloucester,Asian alone,114322,-16284,-0.166
+164,2006,34015,Gloucester,Black or African American alone,76920,21118,0.215
+165,2006,34015,Gloucester,Latinx,107183,-9145,-0.093
+166,2006,34015,Gloucester,Other,113925,-15887,-0.162
+167,2006,34015,Gloucester,People of Color,90483,7555,0.077
+168,2006,34015,Gloucester,"White alone, non-Latinx",98038,0,0.000
+169,2006,34021,Mercer,All,95296,12922,0.119
+170,2006,34021,Mercer,Asian alone,157316,-49098,-0.454
+171,2006,34021,Mercer,Black or African American alone,58326,49892,0.461
+172,2006,34021,Mercer,Latinx,62447,45771,0.423
+173,2006,34021,Mercer,Other,53524,54694,0.505
+174,2006,34021,Mercer,People of Color,76681,31537,0.291
+175,2006,34021,Mercer,"White alone, non-Latinx",108218,0,0.000
+176,2006,42091,Montgomery,All,103869,3278,0.031
+177,2006,42091,Montgomery,Asian alone,103055,4092,0.038
+178,2006,42091,Montgomery,Black or African American alone,79328,27819,0.260
+179,2006,42091,Montgomery,Latinx,87533,19614,0.183
+180,2006,42091,Montgomery,Other,76933,30214,0.282
+181,2006,42091,Montgomery,People of Color,87069,20078,0.187
+182,2006,42091,Montgomery,"White alone, non-Latinx",107147,0,0.000
+183,2006,42101,Philadelphia,All,48489,15105,0.238
+184,2006,42101,Philadelphia,Asian alone,51396,12198,0.192
+185,2006,42101,Philadelphia,Black or African American alone,39003,24591,0.387
+186,2006,42101,Philadelphia,Latinx,34247,29347,0.461
+187,2006,42101,Philadelphia,Other,39235,24359,0.383
+188,2006,42101,Philadelphia,People of Color,39286,24308,0.382
+189,2006,42101,Philadelphia,"White alone, non-Latinx",63594,0,0.000
+190,2007,42017,Bucks,All,100255,1614,0.016
+191,2007,42017,Bucks,Asian alone,137273,-35404,-0.348
+192,2007,42017,Bucks,Black or African American alone,58738,43131,0.423
+193,2007,42017,Bucks,Latinx,73314,28555,0.280
+194,2007,42017,Bucks,Other,112252,-10383,-0.102
+195,2007,42017,Bucks,People of Color,89468,12401,0.122
+196,2007,42017,Bucks,"White alone, non-Latinx",101869,0,0.000
+197,2007,34005,Burlington,All,104386,4966,0.045
+198,2007,34005,Burlington,Asian alone,109301,51,0.000
+199,2007,34005,Burlington,Black or African American alone,85239,24113,0.221
+200,2007,34005,Burlington,Latinx,74266,35086,0.321
+201,2007,34005,Burlington,Other,71473,37879,0.346
+202,2007,34005,Burlington,People of Color,85348,24004,0.220
+203,2007,34005,Burlington,"White alone, non-Latinx",109352,0,0.000
+204,2007,34007,Camden,All,84126,12301,0.128
+205,2007,34007,Camden,Asian alone,98777,-2350,-0.024
+206,2007,34007,Camden,Black or African American alone,54721,41706,0.433
+207,2007,34007,Camden,Latinx,58521,37906,0.393
+208,2007,34007,Camden,Other,60472,35955,0.373
+209,2007,34007,Camden,People of Color,60939,35488,0.368
+210,2007,34007,Camden,"White alone, non-Latinx",96427,0,0.000
+211,2007,42029,Chester,All,117979,2631,0.022
+212,2007,42029,Chester,Asian alone,166720,-46110,-0.382
+213,2007,42029,Chester,Black or African American alone,71432,49178,0.408
+214,2007,42029,Chester,Latinx,87093,33517,0.278
+215,2007,42029,Chester,Other,79333,41277,0.342
+216,2007,42029,Chester,People of Color,96982,23628,0.196
+217,2007,42029,Chester,"White alone, non-Latinx",120610,0,0.000
+218,2007,42045,Delaware,All,85466,8231,0.088
+219,2007,42045,Delaware,Asian alone,100868,-7171,-0.077
+220,2007,42045,Delaware,Black or African American alone,53928,39769,0.424
+221,2007,42045,Delaware,Latinx,72644,21053,0.225
+222,2007,42045,Delaware,Other,67669,26028,0.278
+223,2007,42045,Delaware,People of Color,63136,30561,0.326
+224,2007,42045,Delaware,"White alone, non-Latinx",93697,0,0.000
+225,2007,34015,Gloucester,All,100576,1657,0.016
+226,2007,34015,Gloucester,Asian alone,177498,-75265,-0.736
+227,2007,34015,Gloucester,Black or African American alone,87560,14673,0.144
+228,2007,34015,Gloucester,Latinx,71618,30615,0.299
+229,2007,34015,Gloucester,Other,106044,-3811,-0.037
+230,2007,34015,Gloucester,People of Color,96718,5515,0.054
+231,2007,34015,Gloucester,"White alone, non-Latinx",102233,0,0.000
+232,2007,34021,Mercer,All,99692,14286,0.125
+233,2007,34021,Mercer,Asian alone,164234,-50256,-0.441
+234,2007,34021,Mercer,Black or African American alone,62450,51528,0.452
+235,2007,34021,Mercer,Latinx,76725,37253,0.327
+236,2007,34021,Mercer,Other,74111,39867,0.350
+237,2007,34021,Mercer,People of Color,84783,29195,0.256
+238,2007,34021,Mercer,"White alone, non-Latinx",113978,0,0.000
+239,2007,42091,Montgomery,All,105002,4801,0.044
+240,2007,42091,Montgomery,Asian alone,102272,7531,0.069
+241,2007,42091,Montgomery,Black or African American alone,71762,38041,0.346
+242,2007,42091,Montgomery,Latinx,69173,40630,0.370
+243,2007,42091,Montgomery,Other,92943,16860,0.154
+244,2007,42091,Montgomery,People of Color,82093,27710,0.252
+245,2007,42091,Montgomery,"White alone, non-Latinx",109803,0,0.000
+246,2007,42101,Philadelphia,All,50181,16356,0.246
+247,2007,42101,Philadelphia,Asian alone,47624,18913,0.284
+248,2007,42101,Philadelphia,Black or African American alone,42763,23774,0.357
+249,2007,42101,Philadelphia,Latinx,34060,32477,0.488
+250,2007,42101,Philadelphia,Other,36893,29644,0.446
+251,2007,42101,Philadelphia,People of Color,41306,25231,0.379
+252,2007,42101,Philadelphia,"White alone, non-Latinx",66537,0,0.000
+253,2008,42017,Bucks,All,103787,3462,0.032
+254,2008,42017,Bucks,Asian alone,142235,-34986,-0.326
+255,2008,42017,Bucks,Black or African American alone,57207,50042,0.467
+256,2008,42017,Bucks,Latinx,80132,27117,0.253
+257,2008,42017,Bucks,Other,84753,22496,0.210
+258,2008,42017,Bucks,People of Color,88909,18340,0.171
+259,2008,42017,Bucks,"White alone, non-Latinx",107249,0,0.000
+260,2008,34005,Burlington,All,105853,4833,0.044
+261,2008,34005,Burlington,Asian alone,105816,4870,0.044
+262,2008,34005,Burlington,Black or African American alone,94612,16074,0.145
+263,2008,34005,Burlington,Latinx,74347,36339,0.328
+264,2008,34005,Burlington,Other,68716,41970,0.379
+265,2008,34005,Burlington,People of Color,90041,20645,0.187
+266,2008,34005,Burlington,"White alone, non-Latinx",110686,0,0.000
+267,2008,34007,Camden,All,83439,12411,0.129
+268,2008,34007,Camden,Asian alone,116527,-20677,-0.216
+269,2008,34007,Camden,Black or African American alone,54511,41339,0.431
+270,2008,34007,Camden,Latinx,50307,45543,0.475
+271,2008,34007,Camden,Other,55054,40796,0.426
+272,2008,34007,Camden,People of Color,59689,36161,0.377
+273,2008,34007,Camden,"White alone, non-Latinx",95850,0,0.000
+274,2008,42029,Chester,All,117140,4380,0.036
+275,2008,42029,Chester,Asian alone,145639,-24119,-0.198
+276,2008,42029,Chester,Black or African American alone,75194,46326,0.381
+277,2008,42029,Chester,Latinx,84156,37364,0.307
+278,2008,42029,Chester,Other,84258,37262,0.307
+279,2008,42029,Chester,People of Color,93886,27634,0.227
+280,2008,42029,Chester,"White alone, non-Latinx",121520,0,0.000
+281,2008,42045,Delaware,All,88848,9540,0.097
+282,2008,42045,Delaware,Asian alone,89051,9337,0.095
+283,2008,42045,Delaware,Black or African American alone,51672,46716,0.475
+284,2008,42045,Delaware,Latinx,54757,43631,0.443
+285,2008,42045,Delaware,Other,80931,17457,0.177
+286,2008,42045,Delaware,People of Color,59289,39099,0.397
+287,2008,42045,Delaware,"White alone, non-Latinx",98388,0,0.000
+288,2008,34015,Gloucester,All,96790,4167,0.041
+289,2008,34015,Gloucester,Asian alone,91481,9476,0.094
+290,2008,34015,Gloucester,Black or African American alone,74441,26516,0.263
+291,2008,34015,Gloucester,Latinx,93659,7298,0.072
+292,2008,34015,Gloucester,Other,95648,5309,0.053
+293,2008,34015,Gloucester,People of Color,81918,19039,0.189
+294,2008,34015,Gloucester,"White alone, non-Latinx",100957,0,0.000
+295,2008,34021,Mercer,All,100838,21246,0.174
+296,2008,34021,Mercer,Asian alone,159164,-37080,-0.304
+297,2008,34021,Mercer,Black or African American alone,55203,66881,0.548
+298,2008,34021,Mercer,Latinx,75901,46183,0.378
+299,2008,34021,Mercer,Other,86293,35791,0.293
+300,2008,34021,Mercer,People of Color,81286,40798,0.334
+301,2008,34021,Mercer,"White alone, non-Latinx",122084,0,0.000
+302,2008,42091,Montgomery,All,106703,4330,0.039
+303,2008,42091,Montgomery,Asian alone,111594,-561,-0.005
+304,2008,42091,Montgomery,Black or African American alone,74567,36466,0.328
+305,2008,42091,Montgomery,Latinx,68073,42960,0.387
+306,2008,42091,Montgomery,Other,83009,28024,0.252
+307,2008,42091,Montgomery,People of Color,84999,26034,0.234
+308,2008,42091,Montgomery,"White alone, non-Latinx",111033,0,0.000
+309,2008,42101,Philadelphia,All,50523,17130,0.253
+310,2008,42101,Philadelphia,Asian alone,45440,22213,0.328
+311,2008,42101,Philadelphia,Black or African American alone,41174,26479,0.391
+312,2008,42101,Philadelphia,Latinx,37828,29825,0.441
+313,2008,42101,Philadelphia,Other,39194,28459,0.421
+314,2008,42101,Philadelphia,People of Color,40823,26830,0.397
+315,2008,42101,Philadelphia,"White alone, non-Latinx",67653,0,0.000
+316,2009,42017,Bucks,All,104439,1446,0.014
+317,2009,42017,Bucks,Asian alone,135920,-30035,-0.284
+318,2009,42017,Bucks,Black or African American alone,60544,45341,0.428
+319,2009,42017,Bucks,Latinx,69343,36542,0.345
+320,2009,42017,Bucks,Other,87657,18228,0.172
+321,2009,42017,Bucks,People of Color,85952,19933,0.188
+322,2009,42017,Bucks,"White alone, non-Latinx",105885,0,0.000
+323,2009,34005,Burlington,All,102732,3906,0.037
+324,2009,34005,Burlington,Asian alone,134736,-28098,-0.263
+325,2009,34005,Burlington,Black or African American alone,77580,29058,0.272
+326,2009,34005,Burlington,Latinx,87592,19046,0.179
+327,2009,34005,Burlington,Other,96749,9889,0.093
+328,2009,34005,Burlington,People of Color,89193,17445,0.164
+329,2009,34005,Burlington,"White alone, non-Latinx",106638,0,0.000
+330,2009,34007,Camden,All,83566,12653,0.132
+331,2009,34007,Camden,Asian alone,125937,-29718,-0.309
+332,2009,34007,Camden,Black or African American alone,57463,38756,0.403
+333,2009,34007,Camden,Latinx,50290,45929,0.477
+334,2009,34007,Camden,Other,54055,42164,0.438
+335,2009,34007,Camden,People of Color,61816,34403,0.358
+336,2009,34007,Camden,"White alone, non-Latinx",96219,0,0.000
+337,2009,42029,Chester,All,111742,4459,0.038
+338,2009,42029,Chester,Asian alone,183214,-67013,-0.577
+339,2009,42029,Chester,Black or African American alone,50321,65880,0.567
+340,2009,42029,Chester,Latinx,73899,42302,0.364
+341,2009,42029,Chester,Other,82884,33317,0.287
+342,2009,42029,Chester,People of Color,89108,27093,0.233
+343,2009,42029,Chester,"White alone, non-Latinx",116201,0,0.000
+344,2009,42045,Delaware,All,85539,9546,0.100
+345,2009,42045,Delaware,Asian alone,84794,10291,0.108
+346,2009,42045,Delaware,Black or African American alone,53419,41666,0.438
+347,2009,42045,Delaware,Latinx,50680,44405,0.467
+348,2009,42045,Delaware,Other,43748,51337,0.540
+349,2009,42045,Delaware,People of Color,57598,37487,0.394
+350,2009,42045,Delaware,"White alone, non-Latinx",95085,0,0.000
+351,2009,34015,Gloucester,All,96648,3003,0.030
+352,2009,34015,Gloucester,Asian alone,83155,16496,0.166
+353,2009,34015,Gloucester,Black or African American alone,79868,19783,0.199
+354,2009,34015,Gloucester,Latinx,59353,40298,0.404
+355,2009,34015,Gloucester,Other,87908,11743,0.118
+356,2009,34015,Gloucester,People of Color,78139,21512,0.216
+357,2009,34015,Gloucester,"White alone, non-Latinx",99651,0,0.000
+358,2009,34021,Mercer,All,98243,15926,0.139
+359,2009,34021,Mercer,Asian alone,172930,-58761,-0.515
+360,2009,34021,Mercer,Black or African American alone,57520,56649,0.496
+361,2009,34021,Mercer,Latinx,72399,41770,0.366
+362,2009,34021,Mercer,Other,76918,37251,0.326
+363,2009,34021,Mercer,People of Color,83143,31026,0.272
+364,2009,34021,Mercer,"White alone, non-Latinx",114169,0,0.000
+365,2009,42091,Montgomery,All,102639,1690,0.016
+366,2009,42091,Montgomery,Asian alone,114617,-10288,-0.099
+367,2009,42091,Montgomery,Black or African American alone,82399,21930,0.210
+368,2009,42091,Montgomery,Latinx,100833,3496,0.034
+369,2009,42091,Montgomery,Other,96248,8081,0.077
+370,2009,42091,Montgomery,People of Color,95506,8823,0.085
+371,2009,42091,Montgomery,"White alone, non-Latinx",104329,0,0.000
+372,2009,42101,Philadelphia,All,50794,15877,0.238
+373,2009,42101,Philadelphia,Asian alone,53250,13421,0.201
+374,2009,42101,Philadelphia,Black or African American alone,40394,26277,0.394
+375,2009,42101,Philadelphia,Latinx,31498,35173,0.528
+376,2009,42101,Philadelphia,Other,33901,32770,0.492
+377,2009,42101,Philadelphia,People of Color,39469,27202,0.408
+378,2009,42101,Philadelphia,"White alone, non-Latinx",66671,0,0.000
+379,2010,42017,Bucks,All,95798,1748,0.018
+380,2010,42017,Bucks,Asian alone,124889,-27343,-0.280
+381,2010,42017,Bucks,Black or African American alone,48720,48826,0.501
+382,2010,42017,Bucks,Latinx,67689,29857,0.306
+383,2010,42017,Bucks,Other,69822,27724,0.284
+384,2010,42017,Bucks,People of Color,77515,20031,0.205
+385,2010,42017,Bucks,"White alone, non-Latinx",97546,0,0.000
+386,2010,34005,Burlington,All,100291,2686,0.026
+387,2010,34005,Burlington,Asian alone,136667,-33690,-0.327
+388,2010,34005,Burlington,Black or African American alone,86826,16151,0.157
+389,2010,34005,Burlington,Latinx,95173,7804,0.076
+390,2010,34005,Burlington,Other,83543,19434,0.189
+391,2010,34005,Burlington,People of Color,94270,8707,0.085
+392,2010,34005,Burlington,"White alone, non-Latinx",102977,0,0.000
+393,2010,34007,Camden,All,77384,11664,0.131
+394,2010,34007,Camden,Asian alone,83104,5944,0.067
+395,2010,34007,Camden,Black or African American alone,61398,27650,0.311
+396,2010,34007,Camden,Latinx,54500,34548,0.388
+397,2010,34007,Camden,Other,57288,31760,0.357
+398,2010,34007,Camden,People of Color,61029,28019,0.315
+399,2010,34007,Camden,"White alone, non-Latinx",89048,0,0.000
+400,2010,42029,Chester,All,113723,3658,0.031
+401,2010,42029,Chester,Asian alone,147340,-29959,-0.255
+402,2010,42029,Chester,Black or African American alone,69879,47502,0.405
+403,2010,42029,Chester,Latinx,81756,35625,0.303
+404,2010,42029,Chester,Other,78859,38522,0.328
+405,2010,42029,Chester,People of Color,90853,26528,0.226
+406,2010,42029,Chester,"White alone, non-Latinx",117381,0,0.000
+407,2010,42045,Delaware,All,79776,9375,0.105
+408,2010,42045,Delaware,Asian alone,104084,-14933,-0.168
+409,2010,42045,Delaware,Black or African American alone,53727,35424,0.397
+410,2010,42045,Delaware,Latinx,57775,31376,0.352
+411,2010,42045,Delaware,Other,57632,31519,0.354
+412,2010,42045,Delaware,People of Color,61633,27518,0.309
+413,2010,42045,Delaware,"White alone, non-Latinx",89151,0,0.000
+414,2010,34015,Gloucester,All,95143,2154,0.022
+415,2010,34015,Gloucester,Asian alone,130492,-33195,-0.341
+416,2010,34015,Gloucester,Black or African American alone,55476,41821,0.430
+417,2010,34015,Gloucester,Latinx,81335,15962,0.164
+418,2010,34015,Gloucester,Other,92154,5143,0.053
+419,2010,34015,Gloucester,People of Color,72969,24328,0.250
+420,2010,34015,Gloucester,"White alone, non-Latinx",97297,0,0.000
+421,2010,34021,Mercer,All,95740,15439,0.139
+422,2010,34021,Mercer,Asian alone,170135,-58956,-0.530
+423,2010,34021,Mercer,Black or African American alone,61484,49695,0.447
+424,2010,34021,Mercer,Latinx,61736,49443,0.445
+425,2010,34021,Mercer,Other,69845,41334,0.372
+426,2010,34021,Mercer,People of Color,81505,29674,0.267
+427,2010,34021,Mercer,"White alone, non-Latinx",111179,0,0.000
+428,2010,42091,Montgomery,All,101801,3877,0.037
+429,2010,42091,Montgomery,Asian alone,107718,-2040,-0.019
+430,2010,42091,Montgomery,Black or African American alone,79220,26458,0.250
+431,2010,42091,Montgomery,Latinx,70338,35340,0.334
+432,2010,42091,Montgomery,Other,83062,22616,0.214
+433,2010,42091,Montgomery,People of Color,86712,18966,0.179
+434,2010,42091,Montgomery,"White alone, non-Latinx",105678,0,0.000
+435,2010,42101,Philadelphia,All,46415,15418,0.249
+436,2010,42101,Philadelphia,Asian alone,49693,12140,0.196
+437,2010,42101,Philadelphia,Black or African American alone,36722,25111,0.406
+438,2010,42101,Philadelphia,Latinx,31797,30036,0.486
+439,2010,42101,Philadelphia,Other,33860,27973,0.452
+440,2010,42101,Philadelphia,People of Color,36803,25030,0.405
+441,2010,42101,Philadelphia,"White alone, non-Latinx",61833,0,0.000
+442,2011,42017,Bucks,All,92337,1387,0.015
+443,2011,42017,Bucks,Asian alone,145565,-51841,-0.553
+444,2011,42017,Bucks,Black or African American alone,58505,35219,0.376
+445,2011,42017,Bucks,Latinx,75707,18017,0.192
+446,2011,42017,Bucks,Other,71189,22535,0.240
+447,2011,42017,Bucks,People of Color,88453,5271,0.056
+448,2011,42017,Bucks,"White alone, non-Latinx",93724,0,0.000
+449,2011,34005,Burlington,All,95317,4703,0.047
+450,2011,34005,Burlington,Asian alone,136223,-36203,-0.362
+451,2011,34005,Burlington,Black or African American alone,78899,21121,0.211
+452,2011,34005,Burlington,Latinx,68381,31639,0.316
+453,2011,34005,Burlington,Other,68753,31267,0.313
+454,2011,34005,Burlington,People of Color,83431,16589,0.166
+455,2011,34005,Burlington,"White alone, non-Latinx",100020,0,0.000
+456,2011,34007,Camden,All,75557,16211,0.177
+457,2011,34007,Camden,Asian alone,90691,1077,0.012
+458,2011,34007,Camden,Black or African American alone,51026,40742,0.444
+459,2011,34007,Camden,Latinx,41037,50731,0.553
+460,2011,34007,Camden,Other,39589,52179,0.569
+461,2011,34007,Camden,People of Color,50396,41372,0.451
+462,2011,34007,Camden,"White alone, non-Latinx",91768,0,0.000
+463,2011,42029,Chester,All,103508,4111,0.038
+464,2011,42029,Chester,Asian alone,153763,-46144,-0.429
+465,2011,42029,Chester,Black or African American alone,54288,53331,0.496
+466,2011,42029,Chester,Latinx,57116,50503,0.469
+467,2011,42029,Chester,Other,109349,-1730,-0.016
+468,2011,42029,Chester,People of Color,84134,23485,0.218
+469,2011,42029,Chester,"White alone, non-Latinx",107619,0,0.000
+470,2011,42045,Delaware,All,78588,10379,0.117
+471,2011,42045,Delaware,Asian alone,91111,-2144,-0.024
+472,2011,42045,Delaware,Black or African American alone,52792,36175,0.407
+473,2011,42045,Delaware,Latinx,45126,43841,0.493
+474,2011,42045,Delaware,Other,62619,26348,0.296
+475,2011,42045,Delaware,People of Color,58505,30462,0.342
+476,2011,42045,Delaware,"White alone, non-Latinx",88967,0,0.000
+477,2011,34015,Gloucester,All,93949,4875,0.049
+478,2011,34015,Gloucester,Asian alone,142942,-44118,-0.446
+479,2011,34015,Gloucester,Black or African American alone,68003,30821,0.312
+480,2011,34015,Gloucester,Latinx,70821,28003,0.283
+481,2011,34015,Gloucester,Other,57116,41708,0.422
+482,2011,34015,Gloucester,People of Color,74494,24330,0.246
+483,2011,34015,Gloucester,"White alone, non-Latinx",98824,0,0.000
+484,2011,34021,Mercer,All,96617,18293,0.159
+485,2011,34021,Mercer,Asian alone,156746,-41836,-0.364
+486,2011,34021,Mercer,Black or African American alone,54109,60801,0.529
+487,2011,34021,Mercer,Latinx,66584,48326,0.421
+488,2011,34021,Mercer,Other,69436,45474,0.396
+489,2011,34021,Mercer,People of Color,76344,38566,0.336
+490,2011,34021,Mercer,"White alone, non-Latinx",114910,0,0.000
+491,2011,42091,Montgomery,All,99663,4874,0.047
+492,2011,42091,Montgomery,Asian alone,115960,-11423,-0.109
+493,2011,42091,Montgomery,Black or African American alone,68309,36228,0.347
+494,2011,42091,Montgomery,Latinx,66601,37936,0.363
+495,2011,42091,Montgomery,Other,76628,27909,0.267
+496,2011,42091,Montgomery,People of Color,82974,21563,0.206
+497,2011,42091,Montgomery,"White alone, non-Latinx",104537,0,0.000
+498,2011,42101,Philadelphia,All,44728,16376,0.268
+499,2011,42101,Philadelphia,Asian alone,44373,16731,0.274
+500,2011,42101,Philadelphia,Black or African American alone,35986,25118,0.411
+501,2011,42101,Philadelphia,Latinx,34779,26325,0.431
+502,2011,42101,Philadelphia,Other,34025,27079,0.443
+503,2011,42101,Philadelphia,People of Color,36314,24790,0.406
+504,2011,42101,Philadelphia,"White alone, non-Latinx",61104,0,0.000
+505,2012,42017,Bucks,All,96663,1529,0.016
+506,2012,42017,Bucks,Asian alone,147694,-49502,-0.504
+507,2012,42017,Bucks,Black or African American alone,55330,42862,0.437
+508,2012,42017,Bucks,Latinx,72045,26147,0.266
+509,2012,42017,Bucks,Other,81212,16980,0.173
+510,2012,42017,Bucks,People of Color,88562,9630,0.098
+511,2012,42017,Bucks,"White alone, non-Latinx",98192,0,0.000
+512,2012,34005,Burlington,All,95666,5685,0.056
+513,2012,34005,Burlington,Asian alone,128975,-27624,-0.273
+514,2012,34005,Burlington,Black or African American alone,77856,23495,0.232
+515,2012,34005,Burlington,Latinx,72957,28394,0.280
+516,2012,34005,Burlington,Other,83349,18002,0.178
+517,2012,34005,Burlington,People of Color,84507,16844,0.166
+518,2012,34005,Burlington,"White alone, non-Latinx",101351,0,0.000
+519,2012,34007,Camden,All,75926,12714,0.143
+520,2012,34007,Camden,Asian alone,89597,-957,-0.011
+521,2012,34007,Camden,Black or African American alone,53239,35401,0.399
+522,2012,34007,Camden,Latinx,50584,38056,0.429
+523,2012,34007,Camden,Other,49289,39351,0.444
+524,2012,34007,Camden,People of Color,55569,33071,0.373
+525,2012,34007,Camden,"White alone, non-Latinx",88640,0,0.000
+526,2012,42029,Chester,All,105591,5227,0.047
+527,2012,42029,Chester,Asian alone,160488,-49670,-0.448
+528,2012,42029,Chester,Black or African American alone,67547,43271,0.390
+529,2012,42029,Chester,Latinx,67165,43653,0.394
+530,2012,42029,Chester,Other,95986,14832,0.134
+531,2012,42029,Chester,People of Color,91773,19045,0.172
+532,2012,42029,Chester,"White alone, non-Latinx",110818,0,0.000
+533,2012,42045,Delaware,All,78212,11795,0.131
+534,2012,42045,Delaware,Asian alone,89327,680,0.008
+535,2012,42045,Delaware,Black or African American alone,47580,42427,0.471
+536,2012,42045,Delaware,Latinx,38982,51025,0.567
+537,2012,42045,Delaware,Other,37294,52713,0.586
+538,2012,42045,Delaware,People of Color,52771,37236,0.414
+539,2012,42045,Delaware,"White alone, non-Latinx",90007,0,0.000
+540,2012,34015,Gloucester,All,93408,4951,0.050
+541,2012,34015,Gloucester,Asian alone,100594,-2235,-0.023
+542,2012,34015,Gloucester,Black or African American alone,77844,20515,0.209
+543,2012,34015,Gloucester,Latinx,75144,23215,0.236
+544,2012,34015,Gloucester,Other,61579,36780,0.374
+545,2012,34015,Gloucester,People of Color,77475,20884,0.212
+546,2012,34015,Gloucester,"White alone, non-Latinx",98359,0,0.000
+547,2012,34021,Mercer,All,87083,23153,0.210
+548,2012,34021,Mercer,Asian alone,146593,-36357,-0.330
+549,2012,34021,Mercer,Black or African American alone,44929,65307,0.592
+550,2012,34021,Mercer,Latinx,62350,47886,0.434
+551,2012,34021,Mercer,Other,75072,35164,0.319
+552,2012,34021,Mercer,People of Color,70257,39979,0.363
+553,2012,34021,Mercer,"White alone, non-Latinx",110236,0,0.000
+554,2012,42091,Montgomery,All,98561,3971,0.039
+555,2012,42091,Montgomery,Asian alone,106005,-3473,-0.034
+556,2012,42091,Montgomery,Black or African American alone,68817,33715,0.329
+557,2012,42091,Montgomery,Latinx,67878,34654,0.338
+558,2012,42091,Montgomery,Other,72956,29576,0.288
+559,2012,42091,Montgomery,People of Color,80036,22496,0.219
+560,2012,42091,Montgomery,"White alone, non-Latinx",102532,0,0.000
+561,2012,42101,Philadelphia,All,45322,19210,0.298
+562,2012,42101,Philadelphia,Asian alone,45982,18550,0.287
+563,2012,42101,Philadelphia,Black or African American alone,35642,28890,0.448
+564,2012,42101,Philadelphia,Latinx,33205,31327,0.485
+565,2012,42101,Philadelphia,Other,32073,32459,0.503
+566,2012,42101,Philadelphia,People of Color,35775,28757,0.446
+567,2012,42101,Philadelphia,"White alone, non-Latinx",64532,0,0.000
+568,2013,42017,Bucks,All,92853,2567,0.027
+569,2013,42017,Bucks,Asian alone,123499,-28079,-0.294
+570,2013,42017,Bucks,Black or African American alone,51891,43529,0.456
+571,2013,42017,Bucks,Latinx,56721,38699,0.406
+572,2013,42017,Bucks,Other,63199,32221,0.338
+573,2013,42017,Bucks,People of Color,74443,20977,0.220
+574,2013,42017,Bucks,"White alone, non-Latinx",95420,0,0.000
+575,2013,34005,Burlington,All,97653,1924,0.019
+576,2013,34005,Burlington,Asian alone,135422,-35845,-0.360
+577,2013,34005,Burlington,Black or African American alone,84452,15125,0.152
+578,2013,34005,Burlington,Latinx,94684,4893,0.049
+579,2013,34005,Burlington,Other,95990,3587,0.036
+580,2013,34005,Burlington,People of Color,94298,5279,0.053
+581,2013,34005,Burlington,"White alone, non-Latinx",99577,0,0.000
+582,2013,34007,Camden,All,73186,14878,0.169
+583,2013,34007,Camden,Asian alone,108091,-20027,-0.227
+584,2013,34007,Camden,Black or African American alone,46095,41969,0.477
+585,2013,34007,Camden,Latinx,44593,43471,0.494
+586,2013,34007,Camden,Other,46228,41836,0.475
+587,2013,34007,Camden,People of Color,52020,36044,0.409
+588,2013,34007,Camden,"White alone, non-Latinx",88064,0,0.000
+589,2013,42029,Chester,All,105519,4071,0.037
+590,2013,42029,Chester,Asian alone,169755,-60165,-0.549
+591,2013,42029,Chester,Black or African American alone,61474,48116,0.439
+592,2013,42029,Chester,Latinx,63110,46480,0.424
+593,2013,42029,Chester,Other,75678,33912,0.309
+594,2013,42029,Chester,People of Color,88895,20695,0.189
+595,2013,42029,Chester,"White alone, non-Latinx",109590,0,0.000
+596,2013,42045,Delaware,All,81786,11185,0.120
+597,2013,42045,Delaware,Asian alone,75491,17480,0.188
+598,2013,42045,Delaware,Black or African American alone,50494,42477,0.457
+599,2013,42045,Delaware,Latinx,46306,46665,0.502
+600,2013,42045,Delaware,Other,51176,41795,0.450
+601,2013,42045,Delaware,People of Color,53828,39143,0.421
+602,2013,42045,Delaware,"White alone, non-Latinx",92971,0,0.000
+603,2013,34015,Gloucester,All,90028,3141,0.034
+604,2013,34015,Gloucester,Asian alone,135041,-41872,-0.449
+605,2013,34015,Gloucester,Black or African American alone,76740,16429,0.176
+606,2013,34015,Gloucester,Latinx,47412,45757,0.491
+607,2013,34015,Gloucester,Other,67901,25268,0.271
+608,2013,34015,Gloucester,People of Color,76211,16958,0.182
+609,2013,34015,Gloucester,"White alone, non-Latinx",93169,0,0.000
+610,2013,34021,Mercer,All,89400,15938,0.151
+611,2013,34021,Mercer,Asian alone,138747,-33409,-0.317
+612,2013,34021,Mercer,Black or African American alone,49945,55393,0.526
+613,2013,34021,Mercer,Latinx,67656,37682,0.358
+614,2013,34021,Mercer,Other,64793,40545,0.385
+615,2013,34021,Mercer,People of Color,71946,33392,0.317
+616,2013,34021,Mercer,"White alone, non-Latinx",105338,0,0.000
+617,2013,42091,Montgomery,All,97048,4501,0.044
+618,2013,42091,Montgomery,Asian alone,99813,1736,0.017
+619,2013,42091,Montgomery,Black or African American alone,70276,31273,0.308
+620,2013,42091,Montgomery,Latinx,74400,27149,0.267
+621,2013,42091,Montgomery,Other,74016,27533,0.271
+622,2013,42091,Montgomery,People of Color,80242,21307,0.210
+623,2013,42091,Montgomery,"White alone, non-Latinx",101549,0,0.000
+624,2013,42101,Philadelphia,All,46476,18389,0.283
+625,2013,42101,Philadelphia,Asian alone,47069,17796,0.274
+626,2013,42101,Philadelphia,Black or African American alone,37863,27002,0.416
+627,2013,42101,Philadelphia,Latinx,32709,32156,0.496
+628,2013,42101,Philadelphia,Other,34830,30035,0.463
+629,2013,42101,Philadelphia,People of Color,37556,27309,0.421
+630,2013,42101,Philadelphia,"White alone, non-Latinx",64865,0,0.000
+631,2014,42017,Bucks,All,96696,2941,0.030
+632,2014,42017,Bucks,Asian alone,123000,-23363,-0.234
+633,2014,42017,Bucks,Black or African American alone,57474,42163,0.423
+634,2014,42017,Bucks,Latinx,59719,39918,0.401
+635,2014,42017,Bucks,Other,93198,6439,0.065
+636,2014,42017,Bucks,People of Color,80668,18969,0.190
+637,2014,42017,Bucks,"White alone, non-Latinx",99637,0,0.000
+638,2014,34005,Burlington,All,100393,1751,0.017
+639,2014,34005,Burlington,Asian alone,149312,-47168,-0.462
+640,2014,34005,Burlington,Black or African American alone,87015,15129,0.148
+641,2014,34005,Burlington,Latinx,85578,16566,0.162
+642,2014,34005,Burlington,Other,82943,19201,0.188
+643,2014,34005,Burlington,People of Color,94420,7724,0.076
+644,2014,34005,Burlington,"White alone, non-Latinx",102144,0,0.000
+645,2014,34007,Camden,All,77352,12911,0.143
+646,2014,34007,Camden,Asian alone,87854,2409,0.027
+647,2014,34007,Camden,Black or African American alone,48112,42151,0.467
+648,2014,34007,Camden,Latinx,53079,37184,0.412
+649,2014,34007,Camden,Other,57236,33027,0.366
+650,2014,34007,Camden,People of Color,55315,34948,0.387
+651,2014,34007,Camden,"White alone, non-Latinx",90263,0,0.000
+652,2014,42029,Chester,All,105949,5339,0.048
+653,2014,42029,Chester,Asian alone,182220,-70932,-0.637
+654,2014,42029,Chester,Black or African American alone,63663,47625,0.428
+655,2014,42029,Chester,Latinx,62425,48863,0.439
+656,2014,42029,Chester,Other,137873,-26585,-0.239
+657,2014,42029,Chester,People of Color,98201,13087,0.118
+658,2014,42029,Chester,"White alone, non-Latinx",111288,0,0.000
+659,2014,42045,Delaware,All,78175,12890,0.142
+660,2014,42045,Delaware,Asian alone,86065,5000,0.055
+661,2014,42045,Delaware,Black or African American alone,49156,41909,0.460
+662,2014,42045,Delaware,Latinx,49874,41191,0.452
+663,2014,42045,Delaware,Other,82582,8483,0.093
+664,2014,42045,Delaware,People of Color,55969,35096,0.385
+665,2014,42045,Delaware,"White alone, non-Latinx",91065,0,0.000
+666,2014,34015,Gloucester,All,98914,3862,0.038
+667,2014,34015,Gloucester,Asian alone,139994,-37218,-0.362
+668,2014,34015,Gloucester,Black or African American alone,75308,27468,0.267
+669,2014,34015,Gloucester,Latinx,64937,37839,0.368
+670,2014,34015,Gloucester,Other,65934,36842,0.358
+671,2014,34015,Gloucester,People of Color,79310,23466,0.228
+672,2014,34015,Gloucester,"White alone, non-Latinx",102776,0,0.000
+673,2014,34021,Mercer,All,93028,23110,0.199
+674,2014,34021,Mercer,Asian alone,169425,-53287,-0.459
+675,2014,34021,Mercer,Black or African American alone,55022,61116,0.526
+676,2014,34021,Mercer,Latinx,54629,61509,0.530
+677,2014,34021,Mercer,Other,61417,54721,0.471
+678,2014,34021,Mercer,People of Color,76223,39915,0.344
+679,2014,34021,Mercer,"White alone, non-Latinx",116138,0,0.000
+680,2014,42091,Montgomery,All,98654,4075,0.040
+681,2014,42091,Montgomery,Asian alone,114970,-12241,-0.119
+682,2014,42091,Montgomery,Black or African American alone,67085,35644,0.347
+683,2014,42091,Montgomery,Latinx,68416,34313,0.334
+684,2014,42091,Montgomery,Other,71509,31220,0.304
+685,2014,42091,Montgomery,People of Color,82196,20533,0.200
+686,2014,42091,Montgomery,"White alone, non-Latinx",102729,0,0.000
+687,2014,42101,Philadelphia,All,48453,19085,0.283
+688,2014,42101,Philadelphia,Asian alone,54618,12920,0.191
+689,2014,42101,Philadelphia,Black or African American alone,37523,30015,0.444
+690,2014,42101,Philadelphia,Latinx,35076,32462,0.481
+691,2014,42101,Philadelphia,Other,35062,32476,0.481
+692,2014,42101,Philadelphia,People of Color,38332,29206,0.432
+693,2014,42101,Philadelphia,"White alone, non-Latinx",67538,0,0.000
+694,2015,42017,Bucks,All,99822,2284,0.022
+695,2015,42017,Bucks,Asian alone,131017,-28911,-0.283
+696,2015,42017,Bucks,Black or African American alone,75839,26267,0.257
+697,2015,42017,Bucks,Latinx,61152,40954,0.401
+698,2015,42017,Bucks,Other,66769,35337,0.346
+699,2015,42017,Bucks,People of Color,86151,15955,0.156
+700,2015,42017,Bucks,"White alone, non-Latinx",102106,0,0.000
+701,2015,34005,Burlington,All,92668,7521,0.075
+702,2015,34005,Burlington,Asian alone,110312,-10123,-0.101
+703,2015,34005,Burlington,Black or African American alone,70167,30022,0.300
+704,2015,34005,Burlington,Latinx,76527,23662,0.236
+705,2015,34005,Burlington,Other,68373,31816,0.318
+706,2015,34005,Burlington,People of Color,76625,23564,0.235
+707,2015,34005,Burlington,"White alone, non-Latinx",100189,0,0.000
+708,2015,34007,Camden,All,80558,14403,0.152
+709,2015,34007,Camden,Asian alone,105438,-10477,-0.110
+710,2015,34007,Camden,Black or African American alone,56894,38067,0.401
+711,2015,34007,Camden,Latinx,53146,41815,0.440
+712,2015,34007,Camden,Other,48949,46012,0.485
+713,2015,34007,Camden,People of Color,59509,35452,0.373
+714,2015,34007,Camden,"White alone, non-Latinx",94961,0,0.000
+715,2015,42029,Chester,All,112122,3482,0.030
+716,2015,42029,Chester,Asian alone,148841,-33237,-0.288
+717,2015,42029,Chester,Black or African American alone,64864,50740,0.439
+718,2015,42029,Chester,Latinx,66726,48878,0.423
+719,2015,42029,Chester,Other,80569,35035,0.303
+720,2015,42029,Chester,People of Color,88268,27336,0.236
+721,2015,42029,Chester,"White alone, non-Latinx",115604,0,0.000
+722,2015,42045,Delaware,All,83728,17198,0.170
+723,2015,42045,Delaware,Asian alone,90543,10383,0.103
+724,2015,42045,Delaware,Black or African American alone,51064,49862,0.494
+725,2015,42045,Delaware,Latinx,59888,41038,0.407
+726,2015,42045,Delaware,Other,62622,38304,0.380
+727,2015,42045,Delaware,People of Color,58379,42547,0.422
+728,2015,42045,Delaware,"White alone, non-Latinx",100926,0,0.000
+729,2015,34015,Gloucester,All,96093,5308,0.052
+730,2015,34015,Gloucester,Asian alone,152738,-51337,-0.506
+731,2015,34015,Gloucester,Black or African American alone,59975,41426,0.409
+732,2015,34015,Gloucester,Latinx,54193,47208,0.466
+733,2015,34015,Gloucester,Other,52905,48496,0.478
+734,2015,34015,Gloucester,People of Color,69713,31688,0.313
+735,2015,34015,Gloucester,"White alone, non-Latinx",101401,0,0.000
+736,2015,34021,Mercer,All,89716,22953,0.204
+737,2015,34021,Mercer,Asian alone,162654,-49985,-0.444
+738,2015,34021,Mercer,Black or African American alone,56649,56020,0.497
+739,2015,34021,Mercer,Latinx,53861,58808,0.522
+740,2015,34021,Mercer,Other,58778,53891,0.478
+741,2015,34021,Mercer,People of Color,76293,36376,0.323
+742,2015,34021,Mercer,"White alone, non-Latinx",112669,0,0.000
+743,2015,42091,Montgomery,All,103141,4133,0.039
+744,2015,42091,Montgomery,Asian alone,106289,985,0.009
+745,2015,42091,Montgomery,Black or African American alone,66565,40709,0.379
+746,2015,42091,Montgomery,Latinx,71770,35504,0.331
+747,2015,42091,Montgomery,Other,78606,28668,0.267
+748,2015,42091,Montgomery,People of Color,80749,26525,0.247
+749,2015,42091,Montgomery,"White alone, non-Latinx",107274,0,0.000
+750,2015,42101,Philadelphia,All,51083,23697,0.317
+751,2015,42101,Philadelphia,Asian alone,51542,23238,0.311
+752,2015,42101,Philadelphia,Black or African American alone,38885,35895,0.480
+753,2015,42101,Philadelphia,Latinx,37239,37541,0.502
+754,2015,42101,Philadelphia,Other,37613,37167,0.497
+755,2015,42101,Philadelphia,People of Color,39573,35207,0.471
+756,2015,42101,Philadelphia,"White alone, non-Latinx",74780,0,0.000
+757,2016,42017,Bucks,All,97768,2617,0.026
+758,2016,42017,Bucks,Asian alone,118104,-17719,-0.177
+759,2016,42017,Bucks,Black or African American alone,61217,39168,0.390
+760,2016,42017,Bucks,Latinx,57557,42828,0.427
+761,2016,42017,Bucks,Other,58633,41752,0.416
+762,2016,42017,Bucks,People of Color,75607,24778,0.247
+763,2016,42017,Bucks,"White alone, non-Latinx",100385,0,0.000
+764,2016,34005,Burlington,All,98156,3122,0.031
+765,2016,34005,Burlington,Asian alone,128048,-26770,-0.264
+766,2016,34005,Burlington,Black or African American alone,83176,18102,0.179
+767,2016,34005,Burlington,Latinx,78317,22961,0.227
+768,2016,34005,Burlington,Other,71275,30003,0.296
+769,2016,34005,Burlington,People of Color,86746,14532,0.143
+770,2016,34005,Burlington,"White alone, non-Latinx",101278,0,0.000
+771,2016,34007,Camden,All,81166,14953,0.156
+772,2016,34007,Camden,Asian alone,90298,5821,0.061
+773,2016,34007,Camden,Black or African American alone,53748,42371,0.441
+774,2016,34007,Camden,Latinx,49565,46554,0.484
+775,2016,34007,Camden,Other,47026,49093,0.511
+776,2016,34007,Camden,People of Color,55090,41029,0.427
+777,2016,34007,Camden,"White alone, non-Latinx",96119,0,0.000
+778,2016,42029,Chester,All,113020,4892,0.041
+779,2016,42029,Chester,Asian alone,160241,-42329,-0.359
+780,2016,42029,Chester,Black or African American alone,61667,56245,0.477
+781,2016,42029,Chester,Latinx,60693,57219,0.485
+782,2016,42029,Chester,Other,74593,43319,0.367
+783,2016,42029,Chester,People of Color,88032,29880,0.253
+784,2016,42029,Chester,"White alone, non-Latinx",117912,0,0.000
+785,2016,42045,Delaware,All,83108,14448,0.148
+786,2016,42045,Delaware,Asian alone,84737,12819,0.131
+787,2016,42045,Delaware,Black or African American alone,50427,47129,0.483
+788,2016,42045,Delaware,Latinx,63162,34394,0.353
+789,2016,42045,Delaware,Other,48753,48803,0.500
+790,2016,42045,Delaware,People of Color,56510,41046,0.421
+791,2016,42045,Delaware,"White alone, non-Latinx",97556,0,0.000
+792,2016,34015,Gloucester,All,97698,2606,0.026
+793,2016,34015,Gloucester,Asian alone,111276,-10972,-0.109
+794,2016,34015,Gloucester,Black or African American alone,71175,29129,0.290
+795,2016,34015,Gloucester,Latinx,101614,-1310,-0.013
+796,2016,34015,Gloucester,Other,82047,18257,0.182
+797,2016,34015,Gloucester,People of Color,83936,16368,0.163
+798,2016,34015,Gloucester,"White alone, non-Latinx",100304,0,0.000
+799,2016,34021,Mercer,All,94972,16807,0.150
+800,2016,34021,Mercer,Asian alone,179169,-67390,-0.603
+801,2016,34021,Mercer,Black or African American alone,49443,62336,0.558
+802,2016,34021,Mercer,Latinx,60850,50929,0.456
+803,2016,34021,Mercer,Other,97204,14575,0.130
+804,2016,34021,Mercer,People of Color,81504,30275,0.271
+805,2016,34021,Mercer,"White alone, non-Latinx",111779,0,0.000
+806,2016,42091,Montgomery,All,102876,4901,0.045
+807,2016,42091,Montgomery,Asian alone,106535,1242,0.012
+808,2016,42091,Montgomery,Black or African American alone,79558,28219,0.262
+809,2016,42091,Montgomery,Latinx,69744,38033,0.353
+810,2016,42091,Montgomery,Other,67373,40404,0.375
+811,2016,42091,Montgomery,People of Color,84621,23156,0.215
+812,2016,42091,Montgomery,"White alone, non-Latinx",107777,0,0.000
+813,2016,42101,Philadelphia,All,50695,21231,0.295
+814,2016,42101,Philadelphia,Asian alone,58785,13141,0.183
+815,2016,42101,Philadelphia,Black or African American alone,38817,33109,0.460
+816,2016,42101,Philadelphia,Latinx,36773,35153,0.489
+817,2016,42101,Philadelphia,Other,39731,32195,0.448
+818,2016,42101,Philadelphia,People of Color,40278,31648,0.440
+819,2016,42101,Philadelphia,"White alone, non-Latinx",71926,0,0.000
+820,2017,42017,Bucks,All,101497,3991,0.038
+821,2017,42017,Bucks,Asian alone,137650,-32162,-0.305
+822,2017,42017,Bucks,Black or African American alone,69842,35646,0.338
+823,2017,42017,Bucks,Latinx,62624,42864,0.406
+824,2017,42017,Bucks,Other,70260,35228,0.334
+825,2017,42017,Bucks,People of Color,86462,19026,0.180
+826,2017,42017,Bucks,"White alone, non-Latinx",105488,0,0.000
+827,2017,34005,Burlington,All,104998,4895,0.045
+828,2017,34005,Burlington,Asian alone,132506,-22613,-0.206
+829,2017,34005,Burlington,Black or African American alone,91023,18870,0.172
+830,2017,34005,Burlington,Latinx,89172,20721,0.189
+831,2017,34005,Burlington,Other,89015,20878,0.190
+832,2017,34005,Burlington,People of Color,96205,13688,0.125
+833,2017,34005,Burlington,"White alone, non-Latinx",109893,0,0.000
+834,2017,34007,Camden,All,79277,17408,0.180
+835,2017,34007,Camden,Asian alone,111841,-15156,-0.157
+836,2017,34007,Camden,Black or African American alone,56242,40443,0.418
+837,2017,34007,Camden,Latinx,43792,52893,0.547
+838,2017,34007,Camden,Other,51710,44975,0.465
+839,2017,34007,Camden,People of Color,57769,38916,0.403
+840,2017,34007,Camden,"White alone, non-Latinx",96685,0,0.000
+841,2017,42029,Chester,All,115756,3766,0.032
+842,2017,42029,Chester,Asian alone,163327,-43805,-0.367
+843,2017,42029,Chester,Black or African American alone,81392,38130,0.319
+844,2017,42029,Chester,Latinx,74700,44822,0.375
+845,2017,42029,Chester,Other,73549,45973,0.385
+846,2017,42029,Chester,People of Color,100569,18953,0.159
+847,2017,42029,Chester,"White alone, non-Latinx",119522,0,0.000
+848,2017,42045,Delaware,All,88449,13183,0.130
+849,2017,42045,Delaware,Asian alone,94649,6983,0.069
+850,2017,42045,Delaware,Black or African American alone,56465,45167,0.444
+851,2017,42045,Delaware,Latinx,70133,31499,0.310
+852,2017,42045,Delaware,Other,59846,41786,0.411
+853,2017,42045,Delaware,People of Color,63789,37843,0.372
+854,2017,42045,Delaware,"White alone, non-Latinx",101632,0,0.000
+855,2017,34015,Gloucester,All,103589,5481,0.050
+856,2017,34015,Gloucester,Asian alone,140739,-31669,-0.290
+857,2017,34015,Gloucester,Black or African American alone,52527,56543,0.518
+858,2017,34015,Gloucester,Latinx,67081,41989,0.385
+859,2017,34015,Gloucester,Other,58617,50453,0.463
+860,2017,34015,Gloucester,People of Color,67430,41640,0.382
+861,2017,34015,Gloucester,"White alone, non-Latinx",109070,0,0.000
+862,2017,34021,Mercer,All,94819,20917,0.181
+863,2017,34021,Mercer,Asian alone,185604,-69868,-0.604
+864,2017,34021,Mercer,Black or African American alone,49243,66493,0.575
+865,2017,34021,Mercer,Latinx,59132,56604,0.489
+866,2017,34021,Mercer,Other,64634,51102,0.442
+867,2017,34021,Mercer,People of Color,81204,34532,0.298
+868,2017,34021,Mercer,"White alone, non-Latinx",115736,0,0.000
+869,2017,42091,Montgomery,All,104556,5485,0.050
+870,2017,42091,Montgomery,Asian alone,119953,-9912,-0.090
+871,2017,42091,Montgomery,Black or African American alone,71035,39006,0.354
+872,2017,42091,Montgomery,Latinx,75827,34214,0.311
+873,2017,42091,Montgomery,Other,85965,24076,0.219
+874,2017,42091,Montgomery,People of Color,88614,21427,0.195
+875,2017,42091,Montgomery,"White alone, non-Latinx",110041,0,0.000
+876,2017,42101,Philadelphia,All,,,
+877,2017,42101,Philadelphia,Asian alone,,,
+878,2017,42101,Philadelphia,Black or African American alone,,,
+879,2017,42101,Philadelphia,Latinx,,,
+880,2017,42101,Philadelphia,Other,,,
+881,2017,42101,Philadelphia,People of Color,,,
+882,2017,42101,Philadelphia,"White alone, non-Latinx",,,
+883,2018,42017,Bucks,All,103542,2959,0.028
+884,2018,42017,Bucks,Asian alone,138841,-32340,-0.304
+885,2018,42017,Bucks,Black or African American alone,72179,34322,0.322
+886,2018,42017,Bucks,Latinx,63324,43177,0.405
+887,2018,42017,Bucks,Other,61712,44789,0.421
+888,2018,42017,Bucks,People of Color,85413,21088,0.198
+889,2018,42017,Bucks,"White alone, non-Latinx",106501,0,0.000
+890,2018,34005,Burlington,All,99240,4547,0.044
+891,2018,34005,Burlington,Asian alone,149469,-45682,-0.440
+892,2018,34005,Burlington,Black or African American alone,83526,20261,0.195
+893,2018,34005,Burlington,Latinx,88070,15717,0.151
+894,2018,34005,Burlington,Other,70349,33438,0.322
+895,2018,34005,Burlington,People of Color,91671,12116,0.117
+896,2018,34005,Burlington,"White alone, non-Latinx",103787,0,0.000
+897,2018,34007,Camden,All,78938,16965,0.177
+898,2018,34007,Camden,Asian alone,114068,-18165,-0.189
+899,2018,34007,Camden,Black or African American alone,53214,42689,0.445
+900,2018,34007,Camden,Latinx,41588,54315,0.566
+901,2018,34007,Camden,Other,42069,53834,0.561
+902,2018,34007,Camden,People of Color,54187,41716,0.435
+903,2018,34007,Camden,"White alone, non-Latinx",95903,0,0.000
+904,2018,42029,Chester,All,115876,3220,0.027
+905,2018,42029,Chester,Asian alone,152276,-33180,-0.279
+906,2018,42029,Chester,Black or African American alone,66164,52932,0.444
+907,2018,42029,Chester,Latinx,76771,42325,0.355
+908,2018,42029,Chester,Other,71652,47444,0.398
+909,2018,42029,Chester,People of Color,93971,25125,0.211
+910,2018,42029,Chester,"White alone, non-Latinx",119096,0,0.000
+911,2018,42045,Delaware,All,84225,14105,0.143
+912,2018,42045,Delaware,Asian alone,105505,-7175,-0.073
+913,2018,42045,Delaware,Black or African American alone,54554,43776,0.445
+914,2018,42045,Delaware,Latinx,71327,27003,0.275
+915,2018,42045,Delaware,Other,52904,45426,0.462
+916,2018,42045,Delaware,People of Color,63878,34452,0.350
+917,2018,42045,Delaware,"White alone, non-Latinx",98330,0,0.000
+918,2018,34015,Gloucester,All,95686,3775,0.038
+919,2018,34015,Gloucester,Asian alone,146806,-47345,-0.476
+920,2018,34015,Gloucester,Black or African American alone,51722,47739,0.480
+921,2018,34015,Gloucester,Latinx,95129,4332,0.044
+922,2018,34015,Gloucester,Other,60828,38633,0.388
+923,2018,34015,Gloucester,People of Color,73594,25867,0.260
+924,2018,34015,Gloucester,"White alone, non-Latinx",99461,0,0.000
+925,2018,34021,Mercer,All,94264,22892,0.195
+926,2018,34021,Mercer,Asian alone,171777,-54621,-0.466
+927,2018,34021,Mercer,Black or African American alone,58468,58688,0.501
+928,2018,34021,Mercer,Latinx,59566,57590,0.492
+929,2018,34021,Mercer,Other,94358,22798,0.195
+930,2018,34021,Mercer,People of Color,84524,32632,0.279
+931,2018,34021,Mercer,"White alone, non-Latinx",117156,0,0.000
+932,2018,42091,Montgomery,All,105358,3532,0.032
+933,2018,42091,Montgomery,Asian alone,104311,4579,0.042
+934,2018,42091,Montgomery,Black or African American alone,86900,21990,0.202
+935,2018,42091,Montgomery,Latinx,84400,24490,0.225
+936,2018,42091,Montgomery,Other,70840,38050,0.349
+937,2018,42091,Montgomery,People of Color,89904,18986,0.174
+938,2018,42091,Montgomery,"White alone, non-Latinx",108890,0,0.000
+939,2018,42101,Philadelphia,All,53912,22015,0.290
+940,2018,42101,Philadelphia,Asian alone,66024,9903,0.130
+941,2018,42101,Philadelphia,Black or African American alone,39484,36443,0.480
+942,2018,42101,Philadelphia,Latinx,37756,38171,0.503
+943,2018,42101,Philadelphia,Other,39282,36645,0.483
+944,2018,42101,Philadelphia,People of Color,41573,34354,0.452
+945,2018,42101,Philadelphia,"White alone, non-Latinx",75927,0,0.000
+946,2019,42017,Bucks,All,107665,1656,0.015
+947,2019,42017,Bucks,Asian alone,141058,-31737,-0.290
+948,2019,42017,Bucks,Black or African American alone,66219,43102,0.394
+949,2019,42017,Bucks,Latinx,81913,27408,0.251
+950,2019,42017,Bucks,Other,101350,7971,0.073
+951,2019,42017,Bucks,People of Color,96451,12870,0.118
+952,2019,42017,Bucks,"White alone, non-Latinx",109321,0,0.000
+953,2019,34005,Burlington,All,101958,6592,0.061
+954,2019,34005,Burlington,Asian alone,105122,3428,0.032
+955,2019,34005,Burlington,Black or African American alone,84170,24380,0.225
+956,2019,34005,Burlington,Latinx,86542,22008,0.203
+957,2019,34005,Burlington,Other,85442,23108,0.213
+958,2019,34005,Burlington,People of Color,87744,20806,0.192
+959,2019,34005,Burlington,"White alone, non-Latinx",108550,0,0.000
+960,2019,34007,Camden,All,84591,22530,0.210
+961,2019,34007,Camden,Asian alone,94302,12819,0.120
+962,2019,34007,Camden,Black or African American alone,56854,50267,0.469
+963,2019,34007,Camden,Latinx,51322,55799,0.521
+964,2019,34007,Camden,Other,44668,62453,0.583
+965,2019,34007,Camden,People of Color,56884,50237,0.469
+966,2019,34007,Camden,"White alone, non-Latinx",107121,0,0.000
+967,2019,42029,Chester,All,117137,5576,0.045
+968,2019,42029,Chester,Asian alone,150461,-27748,-0.226
+969,2019,42029,Chester,Black or African American alone,58885,63828,0.520
+970,2019,42029,Chester,Latinx,90385,32328,0.263
+971,2019,42029,Chester,Other,72103,50610,0.412
+972,2019,42029,Chester,People of Color,95199,27514,0.224
+973,2019,42029,Chester,"White alone, non-Latinx",122713,0,0.000
+974,2019,42045,Delaware,All,88802,11743,0.117
+975,2019,42045,Delaware,Asian alone,104335,-3790,-0.038
+976,2019,42045,Delaware,Black or African American alone,61244,39301,0.391
+977,2019,42045,Delaware,Latinx,58242,42303,0.421
+978,2019,42045,Delaware,Other,47825,52720,0.524
+979,2019,42045,Delaware,People of Color,66792,33753,0.336
+980,2019,42045,Delaware,"White alone, non-Latinx",100545,0,0.000
+981,2019,34015,Gloucester,All,102705,1935,0.018
+982,2019,34015,Gloucester,Asian alone,129801,-25161,-0.240
+983,2019,34015,Gloucester,Black or African American alone,77063,27577,0.264
+984,2019,34015,Gloucester,Latinx,82390,22250,0.213
+985,2019,34015,Gloucester,People of Color,86025,18615,0.178
+986,2019,34015,Gloucester,"White alone, non-Latinx",104640,0,0.000
+987,2019,34021,Mercer,All,91274,17307,0.159
+988,2019,34021,Mercer,Asian alone,178310,-69729,-0.642
+989,2019,34021,Mercer,Black or African American alone,55516,53065,0.489
+990,2019,34021,Mercer,Latinx,71356,37225,0.343
+991,2019,34021,Mercer,Other,67981,40600,0.374
+992,2019,34021,Mercer,People of Color,86198,22383,0.206
+993,2019,34021,Mercer,"White alone, non-Latinx",108581,0,0.000
+994,2019,42091,Montgomery,All,105983,4751,0.043
+995,2019,42091,Montgomery,Asian alone,115251,-4517,-0.041
+996,2019,42091,Montgomery,Black or African American alone,72573,38161,0.345
+997,2019,42091,Montgomery,Latinx,91623,19111,0.173
+998,2019,42091,Montgomery,Other,70130,40604,0.367
+999,2019,42091,Montgomery,People of Color,89837,20897,0.189
+1000,2019,42091,Montgomery,"White alone, non-Latinx",110734,0,0.000
+1001,2019,42101,Philadelphia,All,54510,25904,0.322
+1002,2019,42101,Philadelphia,Asian alone,56582,23832,0.296
+1003,2019,42101,Philadelphia,Black or African American alone,42026,38388,0.477
+1004,2019,42101,Philadelphia,Latinx,37231,43183,0.537
+1005,2019,42101,Philadelphia,Other,37299,43115,0.536
+1006,2019,42101,Philadelphia,People of Color,42000,38414,0.478
+1007,2019,42101,Philadelphia,"White alone, non-Latinx",80414,0,0.000
+1008,2021,42017,Bucks,All,108247,2731,0.025
+1009,2021,42017,Bucks,Asian alone,139167,-28189,-0.254
+1010,2021,42017,Bucks,Black or African American alone,60225,50753,0.457
+1011,2021,42017,Bucks,Latinx,68574,42404,0.382
+1012,2021,42017,Bucks,Other,85406,25572,0.230
+1013,2021,42017,Bucks,People of Color,87728,23250,0.210
+1014,2021,42017,Bucks,"White alone, non-Latinx",110978,0,0.000
+1015,2021,34005,Burlington,All,102035,5100,0.048
+1016,2021,34005,Burlington,Asian alone,122359,-15224,-0.142
+1017,2021,34005,Burlington,Black or African American alone,87785,19350,0.181
+1018,2021,34005,Burlington,Latinx,82067,25068,0.234
+1019,2021,34005,Burlington,Other,94294,12841,0.120
+1020,2021,34005,Burlington,People of Color,92414,14721,0.137
+1021,2021,34005,Burlington,"White alone, non-Latinx",107135,0,0.000
+1022,2021,34007,Camden,All,84686,12324,0.127
+1023,2021,34007,Camden,Asian alone,128119,-31109,-0.321
+1024,2021,34007,Camden,Black or African American alone,67105,29905,0.308
+1025,2021,34007,Camden,Latinx,55991,41019,0.423
+1026,2021,34007,Camden,Other,60477,36533,0.377
+1027,2021,34007,Camden,People of Color,68403,28607,0.295
+1028,2021,34007,Camden,"White alone, non-Latinx",97010,0,0.000
+1029,2021,42029,Chester,All,118469,1913,0.016
+1030,2021,42029,Chester,Asian alone,175067,-54685,-0.454
+1031,2021,42029,Chester,Black or African American alone,64180,56202,0.467
+1032,2021,42029,Chester,Latinx,79691,40691,0.338
+1033,2021,42029,Chester,Other,99517,20865,0.173
+1034,2021,42029,Chester,People of Color,105345,15037,0.125
+1035,2021,42029,Chester,"White alone, non-Latinx",120382,0,0.000
+1036,2021,42045,Delaware,All,84549,17514,0.172
+1037,2021,42045,Delaware,Asian alone,83064,18999,0.186
+1038,2021,42045,Delaware,Black or African American alone,51011,51052,0.500
+1039,2021,42045,Delaware,Latinx,90454,11609,0.114
+1040,2021,42045,Delaware,Other,78904,23159,0.227
+1041,2021,42045,Delaware,People of Color,62822,39241,0.384
+1042,2021,42045,Delaware,"White alone, non-Latinx",102063,0,0.000
+1043,2021,34015,Gloucester,All,102051,6747,0.062
+1044,2021,34015,Gloucester,Asian alone,113621,-4823,-0.044
+1045,2021,34015,Gloucester,Black or African American alone,68324,40474,0.372
+1046,2021,34015,Gloucester,Latinx,84713,24085,0.221
+1047,2021,34015,Gloucester,Other,96033,12765,0.117
+1048,2021,34015,Gloucester,People of Color,82073,26725,0.246
+1049,2021,34015,Gloucester,"White alone, non-Latinx",108798,0,0.000
+1050,2021,34021,Mercer,All,94755,15588,0.141
+1051,2021,34021,Mercer,Asian alone,178372,-68029,-0.617
+1052,2021,34021,Mercer,Black or African American alone,60598,49745,0.451
+1053,2021,34021,Mercer,Latinx,67988,42355,0.384
+1054,2021,34021,Mercer,Other,74048,36295,0.329
+1055,2021,34021,Mercer,People of Color,88453,21890,0.198
+1056,2021,34021,Mercer,"White alone, non-Latinx",110343,0,0.000
+1057,2021,42091,Montgomery,All,111222,5545,0.047
+1058,2021,42091,Montgomery,Asian alone,127118,-10351,-0.089
+1059,2021,42091,Montgomery,Black or African American alone,65579,51188,0.438
+1060,2021,42091,Montgomery,Latinx,84663,32104,0.275
+1061,2021,42091,Montgomery,Other,87612,29155,0.250
+1062,2021,42091,Montgomery,People of Color,90346,26421,0.226
+1063,2021,42091,Montgomery,"White alone, non-Latinx",116767,0,0.000
+1064,2021,42101,Philadelphia,All,57179,28089,0.329
+1065,2021,42101,Philadelphia,Asian alone,60220,25048,0.294
+1066,2021,42101,Philadelphia,Black or African American alone,41387,43881,0.515
+1067,2021,42101,Philadelphia,Latinx,48419,36849,0.432
+1068,2021,42101,Philadelphia,Other,47104,38164,0.448
+1069,2021,42101,Philadelphia,People of Color,45244,40024,0.469
+1070,2021,42101,Philadelphia,"White alone, non-Latinx",85268,0,0.000
+1071,2022,42017,Bucks,All,105398,330,0.003
+1072,2022,42017,Bucks,Asian alone,149816,-44088,-0.417
+1073,2022,42017,Bucks,Black or African American alone,73776,31952,0.302
+1074,2022,42017,Bucks,Latinx,79815,25913,0.245
+1075,2022,42017,Bucks,Other,103445,2283,0.022
+1076,2022,42017,Bucks,People of Color,101576,4152,0.039
+1077,2022,42017,Bucks,"White alone, non-Latinx",105728,0,0.000
+1078,2022,34005,Burlington,All,100478,238,0.002
+1079,2022,34005,Burlington,Asian alone,141694,-40978,-0.407
+1080,2022,34005,Burlington,Black or African American alone,94995,5721,0.057
+1081,2022,34005,Burlington,Latinx,102361,-1645,-0.016
+1082,2022,34005,Burlington,Other,95050,5666,0.056
+1083,2022,34005,Burlington,People of Color,102619,-1903,-0.019
+1084,2022,34005,Burlington,"White alone, non-Latinx",100716,0,0.000
+1085,2022,34007,Camden,All,81768,14974,0.155
+1086,2022,34007,Camden,Asian alone,107124,-10382,-0.107
+1087,2022,34007,Camden,Black or African American alone,54284,42458,0.439
+1088,2022,34007,Camden,Latinx,55406,41336,0.427
+1089,2022,34007,Camden,Other,58591,38151,0.394
+1090,2022,34007,Camden,People of Color,60856,35886,0.371
+1091,2022,34007,Camden,"White alone, non-Latinx",96742,0,0.000
+1092,2022,42029,Chester,All,117232,4568,0.038
+1093,2022,42029,Chester,Asian alone,180768,-58968,-0.484
+1094,2022,42029,Chester,Black or African American alone,61911,59889,0.492
+1095,2022,42029,Chester,Latinx,87073,34727,0.285
+1096,2022,42029,Chester,Other,91982,29818,0.245
+1097,2022,42029,Chester,People of Color,107139,14661,0.120
+1098,2022,42029,Chester,"White alone, non-Latinx",121800,0,0.000
+1099,2022,42045,Delaware,All,83960,13639,0.140
+1100,2022,42045,Delaware,Asian alone,108327,-10728,-0.110
+1101,2022,42045,Delaware,Black or African American alone,52773,44826,0.459
+1102,2022,42045,Delaware,Latinx,60011,37588,0.385
+1103,2022,42045,Delaware,Other,59876,37723,0.387
+1104,2022,42045,Delaware,People of Color,62826,34773,0.356
+1105,2022,42045,Delaware,"White alone, non-Latinx",97599,0,0.000
+1106,2022,34015,Gloucester,All,98301,1839,0.018
+1107,2022,34015,Gloucester,Asian alone,122717,-22577,-0.225
+1108,2022,34015,Gloucester,Black or African American alone,80201,19939,0.199
+1109,2022,34015,Gloucester,Latinx,81591,18549,0.185
+1110,2022,34015,Gloucester,Other,91579,8561,0.085
+1111,2022,34015,Gloucester,People of Color,87651,12489,0.125
+1112,2022,34015,Gloucester,"White alone, non-Latinx",100140,0,0.000
+1113,2022,34021,Mercer,All,95668,13916,0.127
+1114,2022,34021,Mercer,Asian alone,172459,-62875,-0.574
+1115,2022,34021,Mercer,Black or African American alone,45429,64155,0.585
+1116,2022,34021,Mercer,Latinx,81037,28547,0.261
+1117,2022,34021,Mercer,Other,82989,26595,0.243
+1118,2022,34021,Mercer,People of Color,86228,23356,0.213
+1119,2022,34021,Mercer,"White alone, non-Latinx",109584,0,0.000
+1120,2022,42091,Montgomery,All,106811,3363,0.031
+1121,2022,42091,Montgomery,Asian alone,122990,-12816,-0.116
+1122,2022,42091,Montgomery,Black or African American alone,71263,38911,0.353
+1123,2022,42091,Montgomery,Latinx,81350,28824,0.262
+1124,2022,42091,Montgomery,Other,91212,18962,0.172
+1125,2022,42091,Montgomery,People of Color,91500,18674,0.169
+1126,2022,42091,Montgomery,"White alone, non-Latinx",110174,0,0.000
+1127,2022,42101,Philadelphia,All,56517,25451,0.310
+1128,2022,42101,Philadelphia,Asian alone,61985,19983,0.244
+1129,2022,42101,Philadelphia,Black or African American alone,42747,39221,0.478
+1130,2022,42101,Philadelphia,Latinx,42654,39314,0.480
+1131,2022,42101,Philadelphia,Other,45669,36299,0.443
+1132,2022,42101,Philadelphia,People of Color,45044,36924,0.450
+1133,2022,42101,Philadelphia,"White alone, non-Latinx",81968,0,0.000
