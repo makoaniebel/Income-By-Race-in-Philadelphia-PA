@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
+from sklearn.metrics import r2_score
+import statsmodels.api as sm
 
 def readData(csv, county_name):
     countyData = csv[csv['county_name'] == county_name].copy()
@@ -21,6 +23,8 @@ def plotIndividualRegressions(countyData, county_name):
     printDataSample(countyData)
     racial_groups = countyData['racial_ethnic_group'].unique()
     
+    summaries = []
+    
     for group in racial_groups:
         group_data = countyData[countyData['racial_ethnic_group'] == group]
         if group_data.empty:
@@ -30,7 +34,19 @@ def plotIndividualRegressions(countyData, county_name):
         y = group_data['median_income']
         model = LinearRegression().fit(X, y)
         y_pred = model.predict(X)
-        
+        r2 = r2_score(y, y_pred)
+        X_with_const = sm.add_constant(X)
+        ols_model = sm.OLS(y, X_with_const).fit()
+        slope = model.coef_[0]
+        intercept = model.intercept_
+        p_value = ols_model.pvalues[1]
+        f_stat = ols_model.fvalue
+        df_model = int(ols_model.df_model)
+        df_resid = int(ols_model.df_resid)
+        summary = (f"{group}: Median income = {slope:.3f} * Year + {intercept:.2f}, "
+                   f"R^2 = {r2:.3f}, F({df_model},{df_resid}) = {f_stat:.2f}, p = {p_value:.3f}.")
+        summaries.append(summary)
+     
         plt.figure(figsize=(12, 8))
         plt.plot(group_data['year'], y_pred, label=f'{group} Trend', linestyle='--')
         plt.scatter(group_data['year'], y, label=f'{group} Actual', alpha=0.7)
@@ -40,6 +56,10 @@ def plotIndividualRegressions(countyData, county_name):
         plt.legend()
         plt.grid(True)
         plt.show()
+
+    print("\nRegression Summary:")
+    for i, summary in enumerate(summaries, start=1):
+        print(f"{i}. {summary}")
 
 def main():
     csv = pd.read_csv('data.csv')
